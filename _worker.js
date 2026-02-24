@@ -1,7 +1,7 @@
     // CFnew - 终端 v2.9.3
     // 版本: v2.9.3
     import { connect } from 'cloudflare:sockets';
-    let at = '351c9981-04b6-4103-aa4b-864aa9c91469';
+    let at = '8b1d7f5c-2e3a-4a9d-9b1c-5d6e7f8a9b0c';
     let fallbackAddress = '';
     let socks5Config = '';
     let customPreferredIPs = [];

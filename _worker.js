@@ -14,7 +14,7 @@
     let currentWorkerRegion = '';
     let manualWorkerRegion = '';
     let piu = '';
-    let cp = 'admin';  
+    let CP = 'admin';  
 
     let ev = true;   
     let et = false; 
